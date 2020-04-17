@@ -4,7 +4,7 @@
 <html>
 <head>
 
-	<title>Stock Management System</title>
+	<title>PridePoint Inventory</title>
 
 	<!-- bootstrap -->
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap.min.css">
